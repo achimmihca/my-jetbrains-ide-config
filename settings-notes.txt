@@ -1,0 +1,6 @@
+- Editor > File Encodings > Global Encoding: UTF-8
+- Editor > File Encodings > Project Encoding: UTF-8
+- Editor > File Encodings > Properties Files: UTF-8
+- Editor > File Encodings > Properties Files > "Transparent native-to-ascii conversion" : true
+- Editor > Font > Size: 13
+- Editor > General > Show quick documentation on mouse over: 1000 ms
